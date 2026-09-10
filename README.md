@@ -598,26 +598,4 @@ Este projeto está sob a licença ISC.
 - GitHub: [@brazgustavo](https://github.com/brazgustavo)
 - Repositório: [mern-thinboard](https://github.com/brazgustavo/mern-thinboard)
 
----
 
-## 📞 Suporte
-
-Se encontrar algum problema ou tiver sugestões, abra uma [issue](https://github.com/brazgustavo/mern-thinboard/issues).
-
----
-
-## 🎯 Roadmap Futuro
-
-- [ ] Autenticação com JWT/Google
-- [ ] Categorização de notas (tags)
-- [ ] Busca e filtro
-- [ ] Compartilhamento de notas
-- [ ] Colaboração em tempo real
-- [ ] Modo escuro
-- [ ] Sincronização offline
-- [ ] Mobile app (React Native)
-- [ ] Arquivos e imagens
-
----
-
-**Feito com ❤️ usando MERN Stack**
